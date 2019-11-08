@@ -11,3 +11,5 @@ Instructions:
 4. Choose random letters or custom message
 5. Enable proxies, only enable proxies if you have proxies.txt in the same folder as spammer.exe, any proxy + port combination will work, check the included proxies.txt file for valid setup of the proxies.txt file
 6. Sit back and enjoy
+
+Feel free to [donate](https://www.paypal.me/jimmyshadow1)!
