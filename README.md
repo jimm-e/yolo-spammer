@@ -1,4 +1,7 @@
 # yolo-spammer
+
+I am not responsible for any action taken against you or your account by using this software. USE AT YOUR OWN DISCRETION.
+
 Spams the snapchat anonymous messages with messages.
 
 Instructions:
